@@ -40,5 +40,12 @@ button {
     color: white;
     border-radius: 4px;
     cursor: pointer;
-    
+}
+
+#clearBtn {
+    padding: 5px 16px 5px 16px;
+}
+
+#add10Value {
+    padding: 5px 13px 5px 13px;
 }
