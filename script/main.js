@@ -1,5 +1,3 @@
-const increaseBtnEl = document.getElementById("increaseBtn");
-const decreaseBtnEl = document.getElementById("decreaseBtn");
 let counterValueEl = document.getElementById("counterValue");
 
 function increaseValue() {
