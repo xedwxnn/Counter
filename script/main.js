@@ -11,3 +11,11 @@ function decreaseValue() {
         counterValueEl.innerText--;
     }
 }
+
+function clearValue() {
+    counterValueEl.innerText = 0;
+}
+
+function add10Value() {
+    counterValueEl.innerText = parseInt(counterValueEl.innerText) + 10;
+}
